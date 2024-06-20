@@ -1,3 +1,2 @@
-# pete-thinkful-new
-Pete Thinkful - Website - CSS Assessment
-CSS Assessment coding updated
+# starter-pete-thinkful-portfolio
+Updated Pete's Website to reflect changes requested.
