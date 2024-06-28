@@ -44,6 +44,11 @@ article div {
   flex-direction: row;
 }
 
+#portfolio p {
+  font-size: 14px;
+  text-align: center;
+}
+
 /* Paragraphs */
 p {
   line-height: 1.5;
@@ -60,6 +65,10 @@ a:hover {
 
 nav a {
   padding-left: 10px;
+}
+
+.navigation {
+  margin-left: 50px;
 }
 
 /* Images */
@@ -88,6 +97,10 @@ img {
 .flex-container {
   display: flex;
   flex-direction: row;
+}
+
+.about-section {
+  text-align: left
 }
 
 
